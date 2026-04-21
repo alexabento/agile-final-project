@@ -13,6 +13,6 @@ As a [role], I need [function] so that [benefit].
 * 
 
 **Acceptance criteria**
->Given [condition], 
->when [event] 
->then [outcome].
+Given [condition], 
+when [event] 
+then [outcome].
